@@ -19,3 +19,7 @@ Custom 32 bit shellcode generator based on the OSED course with added features.
 py.exe .\rawshell.py -s cmd -t bind -d true
 ```
 ![image](https://github.com/user-attachments/assets/52a379b7-d96e-42cb-80d4-b78841f41082)
+
+### Future
+* Add input for IP on reverse shells
+* Add option to specify port
