@@ -7,6 +7,7 @@ Custom 32 bit shellcode generator based on the OSED course with added features.
   * `pip3 install keystone-engine`
 
 ### Features
+* PIC (Position Independant Code)
 * Reverse and bind support
 * Command and powershell support
 * Prints the length
